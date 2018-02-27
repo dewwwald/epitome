@@ -1,0 +1,13 @@
+{
+  "name": "Epitome",
+  "description": "A wrapper around express for building API's.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dewald Laubscher @dewwwald",
+  "dependencies": {
+    "epitome-core": "^0.0.0-aplha",
+    "gulp": "^3.9.1",
+    "gulp-nodemon": "^2.2.1"
+  }
+}
